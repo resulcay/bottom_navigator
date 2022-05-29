@@ -1,6 +1,10 @@
 # bottom_navigator
 
-A new Flutter project.
+---ScreenShots---
+
+<img src="assets/1.png" width="350">  |  <img src="assets/2.png" width="350">  |  
+
+Inspired on: [https://www.youtube.com/channel/UCU0XSqz_hWLJbmlr7kCmvAg](https://www.youtube.com/watch?v=xoKqQjSDZ60)
 
 ## Getting Started
 
